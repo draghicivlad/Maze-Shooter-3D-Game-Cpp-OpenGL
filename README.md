@@ -1,1 +1,1 @@
-# Maze-Shooter-3D-Game-Cpp-OpenGL
+3D Maze Shooter Game in C++ using OpenGL.
